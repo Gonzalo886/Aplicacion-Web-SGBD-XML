@@ -46,7 +46,7 @@ else
 <body>
 <div class="mt-4 p-5 bg-primary text-white rounded">
   <h1>Cliente Insertado</h1>
-<a href="index.php" class="btn btn-success btn-lg" role="button" >Volver</a>
+<a href="clitable.php" class="btn btn-success btn-lg" role="button" >Volver</a>
 </div>
 </body>
 </html>
