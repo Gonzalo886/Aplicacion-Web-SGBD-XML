@@ -13,7 +13,7 @@ $password = "";
 
 $auth     = base64_encode("$username:$password");
 
-$data = "<pedido id="$id" cod_cli="$cod">
+$data = "<pedido id='$id' cod_cli='$cod'>
             <fecha>$fecha</fecha>
             <precio>$precio</precio>
             <producto>$producto</producto>
