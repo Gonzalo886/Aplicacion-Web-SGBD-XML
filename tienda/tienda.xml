@@ -1,0 +1,81 @@
+﻿<tienda>
+    <pedidos>
+        <pedido id="1" cod_cli="1">
+            <fecha>2024-04-11</fecha>
+            <precio>55.00</precio>
+            <producto>Camiseta Nike</producto>
+        </pedido>
+        <pedido id="2" cod_cli="2">
+            <fecha>2024-04-12</fecha>
+            <precio>55.00</precio>
+            <producto>Camiseta Adidas</producto>
+        </pedido>
+        <pedido id="3" cod_cli="3">
+            <fecha>2024-04-13</fecha>
+            <precio>55.00</precio>
+            <producto>Camiseta Lacoste</producto>
+        </pedido>
+        <pedido id="4" cod_cli="4">
+            <fecha>2024-04-14</fecha>
+            <precio>55.00</precio>
+            <producto>Camiseta Gucci</producto>
+        </pedido>
+        <pedido id="5" cod_cli="5">
+            <fecha>2024-04-15</fecha>
+            <precio>55.00</precio>
+            <producto>Camiseta Puma</producto>
+        </pedido>
+        <pedido id="6" cod_cli="1">
+            <fecha>2024-04-16</fecha>
+            <precio>55.00</precio>
+            <producto>Pantalon Nike</producto>
+        </pedido>
+        <pedido id="7" cod_cli="2">
+            <fecha>2024-04-17</fecha>
+            <precio>55.00</precio>
+            <producto>Pantalon Adidas</producto>
+        </pedido>
+        <pedido id="8" cod_cli="3">
+            <fecha>2024-04-18</fecha>
+            <precio>55.00</precio>
+            <producto>Pantalon Lacoste</producto>
+        </pedido>
+        <pedido id="9" cod_cli="4">
+            <fecha>2024-04-19</fecha>
+            <precio>55.00</precio>
+            <producto>Pantalon Gucci</producto>
+        </pedido>
+        <pedido id="10" cod_cli="1">
+            <fecha>2024-04-20</fecha>
+            <precio>55.00</precio>
+          <producto>Pantalon Puma</producto>
+        </pedido>
+    </pedidos>
+    <clientes>
+        <cliente cod="1">
+            <nombre>Francisco Jesus Chia Paez</nombre>
+            <telefono>444555666</telefono>
+            <direccion>Calle D, Ciudad W</direccion>
+        </cliente>
+        <cliente cod="2">
+            <nombre>Daniel Carracedo Barrero</nombre>
+            <telefono>555444666</telefono>
+            <direccion>Calle C, Ciudad W</direccion>
+        </cliente>
+        <cliente cod="3">
+            <nombre>Jose Manuel Meridiano Gonzalez</nombre>
+            <telefono>666444555</telefono>
+            <direccion>Calle A, Ciudad W</direccion>
+        </cliente>
+        <cliente cod="4">
+            <nombre>Manuel Parrado Barrero</nombre>
+            <telefono>555666444</telefono>
+            <direccion>Calle E, Ciudad W</direccion>
+        </cliente>
+        <cliente cod="5">
+            <nombre>Agustín Prados Paez</nombre>
+            <telefono>666555444</telefono>
+            <direccion>Calle B, Ciudad W</direccion>
+        </cliente>
+    </clientes>
+</tienda>
